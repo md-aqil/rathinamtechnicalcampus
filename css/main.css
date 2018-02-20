@@ -426,7 +426,8 @@ width: 80px;
 .other-title {
   font-size: 60px;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 30px;
+  margin-bottom: -70px;
 }
 ._list-line {
   padding-left: 15px;
